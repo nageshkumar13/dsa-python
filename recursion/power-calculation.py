@@ -1,3 +1,5 @@
+# Power Calculation: Write a recursive function to calculate x raised to the power n (x^n)
+
 class Solution:
     def calc_power(self, x, n):
         if n == 0:
