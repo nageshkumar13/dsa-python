@@ -1,3 +1,5 @@
+# Sum of Digits: Create a recursive function to find the sum of the digits of a given number.
+
 class Solution:
     def sum_digits(self, n):
         if n < 10:
